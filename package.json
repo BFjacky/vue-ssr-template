@@ -1,5 +1,5 @@
 {
-  "name": "koa-vue-ssr-cli",
+  "name": "vue-ssr",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
